@@ -1,3 +1,4 @@
 scikit-learn
+spacy
 openai
 snowflake-snowpark-python
