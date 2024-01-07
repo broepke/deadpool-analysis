@@ -1,163 +1,193 @@
 ID,NAME,AGE,IS_DECEASED,PREDICTION
-8e9dd2fa264a727800772309ebe83a94,S. Jay Stewart,86.0,False,0.999
-e1cd0e2d93e2945df00413511d7618a9,Carl XVI Gustaf,78.0,False,0.999
-d12a90385ea1ed6552641e7182b3ec0a,Gene Hackman,94.0,False,0.999
-7c982f32d03eef4b39cc22e8e03a0f80,Glynis Johns,101.0,False,0.999
-d59a365aa8e7f2f5d2375288b6c86993,Jerry Kramer,88.0,False,0.999
-93533238432b7aec73ea6b6af1752f6f,Lee Majors,85.0,False,0.999
-0a28c92d3e75a5401aefd5ed67b663e4,Chen Shui-bian,74.0,False,0.999
-60b3170de554e9b629a2b57f2a3d6846,Michael York,82.0,False,0.999
-261224b82d162f034dcb3a4eaf39c9c3,Jon Anderson,80.0,False,0.999
-ffb8eab79cce86eeb3236cd8847fba8f,Mark Spitz,74.0,False,0.998
-02531260f1501acf98b6888da1fba056,Jeff Garlin,62.0,False,0.998
-1f7d865d0e186b70a33e39cad0044b56,Steve Perry,75.0,False,0.998
-aaa66fd80a469bb1ba91570842ee07f2,Liam Payne,31.0,False,0.998
-ce4d082654c58c04bbfc6583594146c2,Ryan Adams,50.0,False,0.998
-1d84ef040505cb6177a29fb0ff12af97,Flood,64.0,False,0.997
-2f6d81c6d54dc9fd8346317a8264ae27,Jean-Bertrand Aristide,71.0,False,0.997
-7f0c67d7c47e9d35714984a3f51a7059,Bob Newhart,95.0,False,0.996
-1a9b9d4950a06800b398d2c672933d41,Ron Paul,89.0,False,0.996
-d5ef2505fa7cda6ccc55eac01592203c,Rocco DiSpirito,58.0,False,0.996
-77bbadfbe022165cfa609094cd15a238,Robby Benson,68.0,False,0.996
-7a12c971208a47758374ee488dbde990,Nichelle Nichols,92.0,False,0.996
-78391743bf84cc4d7f606fbc01085266,Clint Eastwood,94.0,False,0.996
-d2ad175f324993d60cd5a01c0fd91bae,Stevie Wonder,74.0,False,0.996
-7fcd60c0da8750a4128e3521b033f062,Wanda Jackson,87.0,False,0.995
-d64fea47adcc8768dbb01016fad95037,Göran Persson,75.0,False,0.995
-66515667535287c0e8c07b75fc027cec,Shirley Muldowney,84.0,False,0.994
-45c512fba6f069ce56ed24597c182337,Mark Warner,70.0,False,0.994
-63254fcb83d1b5ea31abe9499a3c6928,Leonard Boswell,90.0,False,0.993
-115df7279300985b73a3c33faa4d2e40,Bruce Willis,69.0,False,0.993
-75443e9ed621ee7c8026a173e2e47fac,Michael Gerson,60.0,False,0.992
-a55e7d9c6457f2cb942754654b04369b,Toni Braxton,58.0,False,0.992
-106c64609a8a03b8606993eda74cfdef,Richard T. Burke,80.0,False,0.992
-02b9b9fdf920ee9e6eb65ae1d12220f7,Rick Snyder,66.0,False,0.992
-03bbf69b9a5bea1622f7be0532b6dc88,Gregory Itzin,76.0,False,0.991
-f7933915c9469088f7f5859f895826e0,KT Tunstall,49.0,False,0.991
-45e128495735d8edb65bd5addaa25cd3,Paris,57.0,False,0.989
-781125ebb4c0a0087710ab0bfd9145b2,Mike Simpson,74.0,False,0.989
-e48c2a2a14ed4f051bf9e915b578c1ec,John Doolittle,74.0,False,0.989
-bf57a4750f6cb85c04e31460dc2f58b8,Jordan,46.0,False,0.989
-bc10a17843d207e9f4fb7d3199dd5386,Randy Travis,65.0,False,0.989
-57030fb81e44dc0fc7a4525557ba4a75,Grace Napolitano,88.0,False,0.989
-952855a76c4282f1b3b445d0ad27b152,Julius Genachowski,62.0,False,0.989
-6016a1fc09d12fa0aa1ccd709d603545,Amitabh Bachchan,82.0,False,0.988
-dcdd542a7dc97b01de19415a3bb27b72,Jeff Bagwell,56.0,False,0.987
-2aacd82bc505e6305a4843624710f343,Serena Williams,43.0,False,0.987
-ace75e36529e15b6b9a48ddf002c4fd6,Scott DesJarlais,60.0,False,0.985
-06944692fe68b5174d934f55b2a1a31a,Dave Gahan,62.0,False,0.984
-5ed37e93210fcb4d56667370becdb77f,Ben Nelson,83.0,False,0.984
-d7a25749ebe201d8586c38c580aa0ab7,Jeff Bingaman,81.0,False,0.983
-cec74740e74884a808a68ecaeb279f63,William W. McGuire,76.0,False,0.983
-4200ad63c1b3a39849cddc746ceebbc7,Michael Flatley,66.0,False,0.983
-40b6b7dace783e6b09f9cbce15950d5b,Kenny Rogers,86.0,False,0.983
-ad8caa88495f8410b389e59d2bda73c5,John Garamendi,79.0,False,0.983
-febb2fe5335bcfec79b8d5e2f16f6795,Ira Magaziner,77.0,False,0.983
-f48b1db85430f41618ecaf99f39620eb,Blythe Danner,81.0,False,0.982
-37d38bf3959f424e5f2905a264db3095,Chris Frantz,73.0,False,0.982
-8fca6995b8bef72ff626c15646485dff,Gray Davis,82.0,False,0.982
-90eca2a0a80be34303bda5b7c02b0c0e,Nick Jonas,32.0,False,0.982
-31bbf7062b895134b020ca71efe35c38,Violent J,52.0,False,0.981
-4430c3cf0d7be4799b788a5bc2e028de,Bill Nelson,82.0,False,0.981
-64e23939f60e875ac695d3fb0c6cc6c6,Dick Van Dyke,99.0,False,0.98
-1ac40a8cbae5065aee2aeb96babfd73c,Tony Dorsett,70.0,False,0.978
-b3fde98a2c53239fd2ee22018ebf585c,Ryuichi Sakamoto,72.0,False,0.977
-ebbfe592789e4441771e619a37f5910b,Silvio Berlusconi,88.0,False,0.977
-565a82987fa01424c53e40ed61dcd9ee,Rosie O'Donnell,62.0,False,0.977
-784cf045897a32d45da225e692bc6257,Val Kilmer,65.0,False,0.977
-381d800e1343f67abeafab37fc2e47b9,Junior Byles,76.0,False,0.976
-fdc3d1eb4958bcd06d48c31b4a052c7a,Chris Lemmon,70.0,False,0.976
-c1e75b6494f017e3aca6772d1ef091a4,Rosalynn Carter,97.0,False,0.976
-ae11085dc60c623189cc9b4fa601ef89,Linda Evangelista,59.0,False,0.976
-c2c41864c52ff9f6310e537083725b63,Murray Waas,64.0,False,0.975
-8e185c40f58e927e9aca81e4e900c382,Ólafur Ragnar Grímsson,81.0,False,0.975
-55ddb3a274f49b63e076886144015630,Dick Armey,84.0,False,0.973
-3e38df3867344a180058e0a28300407b,Mandy Patinkin,72.0,False,0.972
-c31aff50c19efdaf65fdc9382a971220,Bobby Rydell,82.0,False,0.972
-9e6ffa5cca233015e71fe903fb5af898,Jim Yong Kim,65.0,False,0.971
-e20a15f895f82f2637043d85ea17a91e,Darryl Strawberry,62.0,False,0.97
-6eb8e52fd218ee7f30e4ef0d6e175756,Tom Gegax,77.0,False,0.97
-718a4ab287a9e6906418fd3ddb772b2a,Stuart Bowen,66.0,False,0.97
-cdfff410d968016b04723f340dc4efbb,Kurt Schrader,73.0,False,0.967
-139745d6e4b82aaa12b8edf120540f49,Earl Campbell,69.0,False,0.966
-b250b8b5c44ba0653f820b62cd726a45,Hosni Mubarak,96.0,False,0.965
-3c0448e7baaffcba0bdb69c1d775b18b,Dick Cheney,83.0,False,0.965
-7a8b77cc32d9b4289a853c925fa3fbe3,Hulk Hogan,71.0,False,0.963
-ae7b2a14d408c66ebdc05da2a12c49c6,Eddie Deezen,67.0,False,0.962
-1edea3b7261fd190b4240528073e4717,Ruth Buzzi,88.0,False,0.961
-3758b17554023777ef560e46735ff4ad,Al Rantel,69.0,False,0.961
-a5e6bdf5bf836f7e460e857008a7f7d1,Paddy Considine,50.0,False,0.958
-02b8834978c91ecfddbdefab025da23e,Brian Littrell,49.0,False,0.955
-3d734efb1783837f0ddb896e3c4d4c8f,Liam Fox,63.0,False,0.954
-7e4d40e061568a50f3730c88ce6e0336,Dana White,55.0,False,0.954
-1578375e93e389df0886ede11fcd8ee3,Brooks Robinson,87.0,False,0.954
-73f404c0a2ab79b6debdac146829d13c,Mwai Kibaki,93.0,False,0.948
-8fd528e60f7012fd55560ce85e3a40eb,Tom Daschle,77.0,False,0.947
-f5cf6f472bc616d752302c98ca6d4c16,Belinda Carlisle,66.0,False,0.943
-47c79ea5dba659edf9ce2d91b5fa00d4,Jessie J,36.0,False,0.94
-e7ef1443dddb55eb8566adb19c9fca88,Renée Fleming,65.0,False,0.939
-52d2b32d184d80d0aaa130f2acc1ab3a,Amanda Bynes,38.0,False,0.939
-41401f9c6b6f06d74f3b04e86b862ea4,Louis Farrakhan,91.0,False,0.938
-d6ef14865529aefe31b82c4a2420b4e6,James Lankford,56.0,False,0.934
-556ce76eb0cccd2faef448e683e66175,Niki Taylor,49.0,False,0.933
-78045d7b74a382aa089fe5aa90118ae0,Brad Sherman,70.0,False,0.928
-44431247f7daded3284c0f3ce90f65c8,Roberta Flack,85.0,False,0.925
-4e81c2b7a7b51e07379378773e19d2e1,Bret Hart,67.0,False,0.924
-337cd8a717e4b3063feec47d936a0889,Fred Upton,71.0,False,0.924
-0842c26183fa0045a5964d95e55c4762,Billy Corgan,57.0,False,0.923
-25a940511999a7ac4d4cfc469ccde07e,Marc Summers,73.0,False,0.921
-0cf40344591d7ae78a7e28366055bbda,Regis Philbin,93.0,False,0.92
-acc3300fb9a169d2827855ebf13dab62,Ne-Yo,42.0,False,0.913
-e509a1e291887f7ea5acd0eb066b2438,Betty Sutton,61.0,False,0.911
-c3a71a9624772222b88188b52e0ba2fd,Bono,64.0,False,0.909
-36e9be5b152581218f265f5d1f9a1c98,Pope Benedict XVI,97.0,False,0.908
-dc95a9a2b0bad2d215b6dfdee019be7d,Harry Reid,85.0,False,0.906
-339b2b3f9f42658674d7af9086a5f35a,Chris Van Hollen,65.0,False,0.902
-df6e42475e8c4ece7e4fe52f966bd60f,Chris Carney,65.0,False,0.902
-81e8547ef2adcf08729751dcbf15b388,Paul Gosar,66.0,False,0.902
-49f95076f3672939add72b6c3f7e5880,Josh Homme,51.0,False,0.901
-eba3c02c1c4ee6e8a13faff96b460ade,Mark Hoppus,52.0,False,0.901
-8f75b4006f77df744cb90ea5f8bb0595,Earl Pomeroy,72.0,False,0.899
-ed6dc5083b17eb0c802e4fd6b168e947,Bob Corker,72.0,False,0.899
-ba8e9789529a26855a665b68a95c79e3,Jim Costa,72.0,False,0.899
-d26efea472341369347b18399321e016,Lindsey Graham,69.0,False,0.898
-aacfd85eb55755ccb3b17b6f01fd4ea4,Mangosuthu Buthelezi,96.0,False,0.886
-ede9f0c296f8b9e284f0bf1b2bb49111,Eric Shinseki,82.0,False,0.882
-f16e3d61f9dac00cdde625a10a7e351b,Chris Brown,35.0,False,0.878
-f832454d4ead43e8e3bd8798ed26f1ad,Bill Halter,64.0,False,0.871
-a16ecef267a466cfd951d15f78850c0b,Sabrina Bryan,40.0,False,0.862
-8a1df388700fbdc045627bcf92224841,Herschel Walker,62.0,False,0.862
-32de2c185f1d1f24eefbeae2d1a4d7a8,Bam Margera,45.0,False,0.852
-50e2176010fc2954b17b44d069372605,Jack Van Impe,93.0,False,0.852
-652f274f09cd531f092c1122f72b0f7e,John Milius,80.0,False,0.849
-9cb2b236e35548bae91bca90065acc60,Eric Braeden,83.0,False,0.845
-e7dc54f5d87b6ad6e678672f1e653f22,Bobby Brown,55.0,False,0.844
-ce6dcba39edc60266bbf5af38e13f769,Pat Toomey,63.0,False,0.836
-a231439b94ad79a5e36c72ddfec3c1dc,Joe Walsh,63.0,False,0.836
-4202836788f077c908bb442746b102a2,Howard Kaylan,77.0,False,0.835
-7ffea5117ce91fbaf0ccdb6fe4e9989d,André Carson,50.0,False,0.833
-b7ca0ad142db6c27afeebaee624b3ee5,Mike Patton,56.0,False,0.83
-757a004c5916770813c397616b7da77f,Brooke Burns,46.0,False,0.823
-a9ae90697b0dc0a08462e6c17f77d123,Empress Michiko,90.0,False,0.82
-168eb231966c9f833e18c6241a5962c3,Bob Uecker,89.0,False,0.818
-3c5e1fc62691417b683fd84beca33fdf,Jeff Merkley,68.0,False,0.817
-472c013fbe1e4874e3d67dc70a8f0c2d,Lou Barletta,68.0,False,0.817
-4c21f0b17f2e0a30df8e8abcf96e5855,John Culberson,68.0,False,0.817
-ae1357ab60574861eaf2932a4d52dcb1,Deryck Whibley,44.0,False,0.815
-cda5d3e779e26693e4edc1279abec80b,Princess Michael of Kent,79.0,False,0.813
-e4d3295a4414fc8534a126b79fec4601,Michael Douglas,80.0,False,0.811
-c1158e0af9d49ef2d14dfe2f3138e4f5,Anthony Kiedis,62.0,False,0.811
-6d7a2d3bdd031acbbea5d65796f68d02,Patty Murray,74.0,False,0.807
-78c3066180ec9f0c7a46276b44f21c55,Jimmy Fallon,50.0,False,0.796
-79ef0af15d5b53da3851e094f0f7ad65,Joycelyn Elders,91.0,False,0.789
-f1e228f61e7276cfdac669ecf002ad22,Kelsey Grammer,69.0,False,0.786
-fe788a64a8ba22842eb81a3228405556,Rosanne Cash,69.0,False,0.786
-bcbf68d5e24d3124680269f53284a83f,Mick Mars,68.0,False,0.776
-8f5722dc488561051fa0fa9a482e667a,Paul LePage,76.0,False,0.77
-6ba6c5e28f8741d879434b5a78a26461,Heather Locklear,63.0,False,0.761
-0a56eb095efd03fe0ab45af2e2d34154,David Petraeus,72.0,False,0.759
-47c0a6f3b1e487892755853d79315a19,Barbara Walters,95.0,False,0.757
-cae1b6bd57e7451fb1c067a28c4c0714,T. K. Wetherell,79.0,False,0.755
-bc4685a3bcb2399b37d1d835b733d6aa,Suzanne Somers,78.0,False,0.754
-4ff9b4785d1427d8c008e7ea2bd2fba7,Terry Bradshaw,76.0,False,0.752
-52a79542abf828b378dd818bfbee9280,Kevin Rudd,67.0,False,0.751
+4571a54cc66a5d14b779bc00a45f3dd5,Chuck Strahl,67,False,0.998
+85600562e865630901d576e832844c7d,George Benson,81,False,0.997
+8484a720218bfff79e2a98c0711341e7,Jay Rockefeller,87,False,0.996
+02b8834978c91ecfddbdefab025da23e,Brian Littrell,49,False,0.996
+5fa092051b86468b74f6b9f2ba57bf6c,Patrick J. Martin,57,False,0.996
+44431247f7daded3284c0f3ce90f65c8,Roberta Flack,87,False,0.996
+8e185c40f58e927e9aca81e4e900c382,Ólafur Ragnar Grímsson,81,False,0.996
+c8083769612fa93c8fd654754356b7bd,John Howard,85,False,0.996
+7f0c67d7c47e9d35714984a3f51a7059,Bob Newhart,95,False,0.995
+08197222f4d88a32323ba65bc0bce130,Glenn Close,77,False,0.994
+075a883a689a63edbd1e0519f024a322,Pete Wilson,91,False,0.994
+0b728d2361b33b4196b670a5a7225970,Norman Foster,89,False,0.993
+6beeba17bdea190f2998f08eb8ecb78c,Sanjay Dutt,65,False,0.993
+5274d4b052a1dc53626925be8a75fcb9,Frank Rosolino,98,False,0.993
+d12a90385ea1ed6552641e7182b3ec0a,Gene Hackman,94,False,0.992
+2aacd82bc505e6305a4843624710f343,Serena Williams,43,False,0.991
+187cff4049856205d836a8dd9081bc55,Doug Ford,60,False,0.99
+37d38bf3959f424e5f2905a264db3095,Chris Frantz,73,False,0.989
+a825af58f11c08af1ce9bec24cbeada9,Vladimir Putin,72,False,0.989
+18a7d69ca8f2050d290ac78b397f4011,LeBron James,40,False,0.989
+93533238432b7aec73ea6b6af1752f6f,Lee Majors,85,False,0.988
+77bbadfbe022165cfa609094cd15a238,Robby Benson,68,False,0.988
+133c8d1125bcc45a00631a8c3717c6a4,Paul Guilfoyle,75,False,0.986
+1a9b9d4950a06800b398d2c672933d41,Ron Paul,89,False,0.985
+d59a365aa8e7f2f5d2375288b6c86993,Jerry Kramer,88,False,0.985
+55ddb3a274f49b63e076886144015630,Dick Armey,84,False,0.984
+eb99f41be714d65295901a70cd0cc6db,Martha Stewart,83,False,0.984
+2153afb72383224831f7d5964a5a27ba,Andrew Marr,65,False,0.983
+0842c26183fa0045a5964d95e55c4762,Billy Corgan,57,False,0.983
+5bcb23cdfb0cb56ffc4a47b1003b6288,Lee Dixon,60,False,0.983
+1b0a202b82c87e7bf2ff3c9ff100c22f,John W. Fisher,93,False,0.983
+fdc3d1eb4958bcd06d48c31b4a052c7a,Chris Lemmon,70,False,0.983
+ae7b2a14d408c66ebdc05da2a12c49c6,Eddie Deezen,66,False,0.98
+4920d340591b4fc962328a180854ec89,Don Cherry,90,False,0.98
+caf8ec4215640e8536153e0c37c133f8,John G. McCoy,81,False,0.979
+7ffea5117ce91fbaf0ccdb6fe4e9989d,André Carson,50,False,0.979
+3e38df3867344a180058e0a28300407b,Mandy Patinkin,72,False,0.978
+b5c02ee75598a1e0cd4f1212e76b0027,George L. Shinn,83,False,0.978
+a55e7d9c6457f2cb942754654b04369b,Toni Braxton,57,False,0.978
+e4d3295a4414fc8534a126b79fec4601,Michael Douglas,80,False,0.978
+115df7279300985b73a3c33faa4d2e40,Bruce Willis,69,False,0.978
+1f7d865d0e186b70a33e39cad0044b56,Steve Perry,75,False,0.977
+c1f8f1ffa2d99075ccc2ca351cfa9fca,Steve Young,63,False,0.977
+d5ef2505fa7cda6ccc55eac01592203c,Rocco DiSpirito,58,False,0.977
+78391743bf84cc4d7f606fbc01085266,Clint Eastwood,94,False,0.977
+b98a3f129dcc564eb655cffa5917d52e,John H. Austin,50,False,0.976
+a31e89085346ce46e1aa9f2a49119383,Jerry York,79,False,0.975
+db212ae14e31b92843d00dd34d6b1cc9,Kevin McCarthy,59,False,0.974
+0a28c92d3e75a5401aefd5ed67b663e4,Chen Shui-bian,74,False,0.973
+acc3300fb9a169d2827855ebf13dab62,Ne-Yo,44,False,0.973
+f16e3d61f9dac00cdde625a10a7e351b,Chris Brown,35,False,0.973
+dcdd542a7dc97b01de19415a3bb27b72,Jeff Bagwell,56,False,0.973
+7fcd60c0da8750a4128e3521b033f062,Wanda Jackson,87,False,0.972
+329b1cdffa7e6fe8ca57cdb6a2e89dbc,Peter Fowler,65,False,0.972
+e9e49d477f658f2e0564d344765487e9,Valerie Perrine,81,False,0.97
+60b3170de554e9b629a2b57f2a3d6846,Michael York,82,False,0.969
+ad8caa88495f8410b389e59d2bda73c5,John Garamendi,79,False,0.966
+784cf045897a32d45da225e692bc6257,Val Kilmer,65,False,0.965
+3404fe30f6abdfa6992f26c8002c9c71,Matthew Perkins,54,False,0.964
+7e4d40e061568a50f3730c88ce6e0336,Dana White,55,False,0.964
+f48b1db85430f41618ecaf99f39620eb,Blythe Danner,81,False,0.964
+25a940511999a7ac4d4cfc469ccde07e,Marc Summers,73,False,0.963
+febb2fe5335bcfec79b8d5e2f16f6795,Ira Magaziner,77,False,0.963
+952855a76c4282f1b3b445d0ad27b152,Julius Genachowski,62,False,0.962
+c2c41864c52ff9f6310e537083725b63,Murray Waas,63,False,0.962
+2ead4f653e5ec8e1dd0917d59f3bc515,Peter Sebastian,54,False,0.962
+f37e18204e44d12786bcdae462946f36,Warren Buffett,94,False,0.961
+30bdacdea66622eb90224c3e9405b19c,Regina Benjamin,68,False,0.96
+718a4ab287a9e6906418fd3ddb772b2a,Stuart Bowen,66,False,0.96
+30f6944bf85ffff1b001a10b0f79ad7c,Jim Calhoun,82,False,0.958
+ac157bf02fe071bcb177d07d25aad9e5,Paul Simon,83,False,0.957
+5ed37e93210fcb4d56667370becdb77f,Ben Nelson,83,False,0.957
+581a2f007dbc889ee6d8607245aac1d1,Hayley Mills,78,False,0.956
+db2d6b2db0566d7b0ab28eff5a675e68,John Lurie,72,False,0.956
+0c290e7e15a4ef354421847f09c2fbb9,Frank Turner,43,False,0.956
+3d734efb1783837f0ddb896e3c4d4c8f,Liam Fox,63,False,0.953
+ac7c774439c3c7d3cdbb375cc167bf0d,Julie Bishop,68,False,0.952
+3758b17554023777ef560e46735ff4ad,Al Rantel,69,False,0.951
+d7a25749ebe201d8586c38c580aa0ab7,Jeff Bingaman,81,False,0.95
+78c3066180ec9f0c7a46276b44f21c55,Jimmy Fallon,50,False,0.95
+b2433db80e874f07e3d0ce17550c371d,Kid Cudi,40,False,0.949
+4200ad63c1b3a39849cddc746ceebbc7,Michael Flatley,66,False,0.949
+4bdaa8247cb1920b28b6440a28a09b74,Lars von Trier,68,False,0.948
+565a82987fa01424c53e40ed61dcd9ee,Rosie O'Donnell,62,False,0.946
+ecccff156039c6e460921dd27e042688,Justin Amash,44,False,0.945
+d64fea47adcc8768dbb01016fad95037,Göran Persson,75,False,0.945
+49f95076f3672939add72b6c3f7e5880,Josh Homme,51,False,0.944
+e7ef1443dddb55eb8566adb19c9fca88,Renée Fleming,65,False,0.943
+561504810c9dff4a9490c971cb7135cd,Fred Morrison,61,False,0.942
+4202836788f077c908bb442746b102a2,Howard Kaylan,77,False,0.941
+64e23939f60e875ac695d3fb0c6cc6c6,Dick Van Dyke,99,False,0.941
+ffb8eab79cce86eeb3236cd8847fba8f,Mark Spitz,74,False,0.94
+c919e3256330ae0ed64678d04f71fb14,Kanye West,47,False,0.936
+eba3c02c1c4ee6e8a13faff96b460ade,Mark Hoppus,52,False,0.935
+66515667535287c0e8c07b75fc027cec,Shirley Muldowney,84,False,0.934
+5e269ddef27882d75647c6128893648a,Ben Affleck,52,False,0.929
+3f62054853b3c1b4bd0847dd4223472a,Kylie Minogue,56,False,0.924
+cda5d3e779e26693e4edc1279abec80b,Princess Michael of Kent,79,False,0.923
+9cb2b236e35548bae91bca90065acc60,Eric Braeden,83,False,0.923
+95c949a988e437d7b74072cc176d4e69,Warren Nelson,74,False,0.922
+01d9a7195c8657f8bf4ef770beaa0011,Dilma Rousseff,77,False,0.921
+32de2c185f1d1f24eefbeae2d1a4d7a8,Bam Margera,45,False,0.92
+a5e6bdf5bf836f7e460e857008a7f7d1,Paddy Considine,51,False,0.919
+d418559cd4c4e7d93582c25338154e28,Selma Blair,52,False,0.916
+2bd8645b34bc62b1a41e5cde21d473a3,Howard M. Dean,76,False,0.914
+cec74740e74884a808a68ecaeb279f63,William W. McGuire,76,False,0.914
+8fca6995b8bef72ff626c15646485dff,Gray Davis,82,False,0.914
+c08782148ead09c24f6e6c84be304000,Ann Veneman,75,False,0.91
+b7ca0ad142db6c27afeebaee624b3ee5,Mike Patton,56,False,0.909
+d83bd53d24efd661a187cdc2aaf9a6d5,George W. Off,78,False,0.902
+31bbf7062b895134b020ca71efe35c38,Violent J,52,False,0.901
+6eb8e52fd218ee7f30e4ef0d6e175756,Tom Gegax,78,False,0.9
+d6ef14865529aefe31b82c4a2420b4e6,James Lankford,56,False,0.897
+e48c2a2a14ed4f051bf9e915b578c1ec,John Doolittle,74,False,0.895
+781125ebb4c0a0087710ab0bfd9145b2,Mike Simpson,74,False,0.895
+cdfff410d968016b04723f340dc4efbb,Kurt Schrader,73,False,0.895
+1edea3b7261fd190b4240528073e4717,Ruth Buzzi,88,False,0.895
+41401f9c6b6f06d74f3b04e86b862ea4,Louis Farrakhan,91,False,0.891
+a231439b94ad79a5e36c72ddfec3c1dc,Joe Walsh,77,False,0.89
+8fd528e60f7012fd55560ce85e3a40eb,Tom Daschle,77,False,0.89
+bc10a17843d207e9f4fb7d3199dd5386,Randy Travis,65,False,0.888
+652f274f09cd531f092c1122f72b0f7e,John Milius,80,False,0.885
+bece56fe33d4a02280405b0f44e03ad1,"Jack Burke, Jr.",101,False,0.884
+4c21f0b17f2e0a30df8e8abcf96e5855,John Culberson,68,False,0.88
+472c013fbe1e4874e3d67dc70a8f0c2d,Lou Barletta,68,False,0.88
+3c5e1fc62691417b683fd84beca33fdf,Jeff Merkley,68,False,0.88
+ace75e36529e15b6b9a48ddf002c4fd6,Scott DesJarlais,60,False,0.873
+1c9f58de4e802305fcc8a5686ef61644,Mike McIntyre,68,False,0.872
+3d21199fae600ba9c2484a643e14ce0e,Leonard Lance,72,False,0.872
+fe788a64a8ba22842eb81a3228405556,Rosanne Cash,69,False,0.871
+bd8e1f9f699b9100b8c3200673955124,Martin Lawrence,59,False,0.868
+5ace4c58a197f9cbd2d34d3bbeaaf8e7,Rudolph A. Marcus,101,False,0.867
+1cc4c81db74d6e26f44e00b0a994edaf,Danny Trejo,80,False,0.864
+5bb58cf84115f668c7eac49f173ab3a5,Bob Menendez,70,False,0.858
+ede9f0c296f8b9e284f0bf1b2bb49111,Eric Shinseki,82,False,0.858
+d26efea472341369347b18399321e016,Lindsey Graham,69,False,0.857
+78045d7b74a382aa089fe5aa90118ae0,Brad Sherman,70,False,0.857
+337cd8a717e4b3063feec47d936a0889,Fred Upton,71,False,0.857
+abb7d32f68cdc5f35411486d57bf21c6,Phil Collins,73,False,0.855
+4c9484491ed876066c000265c6c11092,Charlie Sheen,59,False,0.855
+a16ecef267a466cfd951d15f78850c0b,Sabrina Bryan,40,False,0.853
+beda7b577c434836590c40b456e350ad,Bob Blackman,68,False,0.852
+168eb231966c9f833e18c6241a5962c3,Bob Uecker,89,False,0.851
+029bb6bcc36e76828eb988541b005a85,Harold E. Varmus,85,False,0.85
+f7933915c9469088f7f5859f895826e0,KT Tunstall,49,False,0.849
+757a004c5916770813c397616b7da77f,Brooke Burns,46,False,0.848
+fede1e394366f12ce2885f6efe4274b9,Shannen Doherty,53,False,0.848
+6241e68030f5548ca6da4d93e2b895ce,Koo Stark,68,False,0.847
+23cbe57f01d5b959ff1ad0b839c6fd68,Steve Howe,77,False,0.845
+0a56eb095efd03fe0ab45af2e2d34154,David Petraeus,72,False,0.842
+f0e89d72284adc4311519d28543b9df5,Dave Davies,77,False,0.84
+8f75b4006f77df744cb90ea5f8bb0595,Earl Pomeroy,72,False,0.836
+ba8e9789529a26855a665b68a95c79e3,Jim Costa,72,False,0.836
+ed6dc5083b17eb0c802e4fd6b168e947,Bob Corker,72,False,0.836
+d78e68bab95939f66df5de96b06d7bc5,Kitty Dukakis,88,False,0.835
+c3a71a9624772222b88188b52e0ba2fd,Bono,64,False,0.827
+4430c3cf0d7be4799b788a5bc2e028de,Bill Nelson,82,False,0.822
+02531260f1501acf98b6888da1fba056,Jeff Garlin,62,False,0.819
+8f6ea09d28689ab00a0ccd6cf84d14c8,Melissa Gilbert,60,False,0.815
+81e8547ef2adcf08729751dcbf15b388,Paul Gosar,66,False,0.81
+684967b6c4ad3613f642eb474a4afe19,Alan Johnson,74,False,0.808
+293ebf9a53fbb794f90a52a844b75e92,Teri Garr,77,False,0.807
+df6e42475e8c4ece7e4fe52f966bd60f,Chris Carney,65,False,0.806
+339b2b3f9f42658674d7af9086a5f35a,Chris Van Hollen,65,False,0.806
+f832454d4ead43e8e3bd8798ed26f1ad,Bill Halter,64,False,0.806
+2a1b51846fa5ce0f8e6f15523a35a585,Lamar Smith,77,False,0.801
+c7d1464b97f5dce0df9b94dbe65be318,Joe Walsh,77,False,0.8
+2f6d81c6d54dc9fd8346317a8264ae27,Jean-Bertrand Aristide,71,False,0.799
+8346fe3c228ca7a8a12e7f196f37b9c4,Andy Partridge,71,False,0.797
+764b53f9500fd5d9cbb1c32b320313e5,Exene Cervenka,68,False,0.797
+170ef37716a76a9a7c08d88ae03f8da8,Paul Rodgers,75,False,0.797
+52d2b32d184d80d0aaa130f2acc1ab3a,Amanda Bynes,38,False,0.795
+b37fbd0b38712be1a1bb0960bc54aa94,Kristen Bell,44,False,0.794
+dc7fe5554ded4d25188d3abe74dc218d,Simon Dwyer,35,False,0.792
+8f5722dc488561051fa0fa9a482e667a,Paul LePage,76,False,0.792
+52a79542abf828b378dd818bfbee9280,Kevin Rudd,67,False,0.791
+7d65e796602d997a705e75a3b06f3e4b,Penn Jillette,69,False,0.791
+4ff9b4785d1427d8c008e7ea2bd2fba7,Terry Bradshaw,76,False,0.785
+ce22b97985517392bf886008e58ce0cb,David Satcher,83,False,0.785
+c9922c08d7853a277a870c85d5ab95dc,Natasha Lyonne,45,False,0.784
+2b9a10db7a2e508c9e63ca96f7c8220d,Ray Kurzweil,76,False,0.778
+5e2d929fb99ebcd62cb7aaf315c29ce6,Al Roker,70,False,0.775
+6ba6c5e28f8741d879434b5a78a26461,Heather Locklear,63,False,0.772
+28dbe3b854598964e080619fe5d82804,Carolyn Maloney,78,False,0.771
+ce6dcba39edc60266bbf5af38e13f769,Pat Toomey,63,False,0.768
+f28812bb2b1296c5c9afbeb08951f582,John Kerry,81,False,0.763
+c25a3e729cfd7766e7baf6d71c406468,Debbie Rowe,66,False,0.761
+fed5d13410abb6c1f7bb32e6eeff6b1c,Leo Sayer,76,False,0.758
+141eceb2aa3dedd14263463533ca67b3,LeAnn Rimes,42,False,0.755
+57030fb81e44dc0fc7a4525557ba4a75,Grace Napolitano,88,False,0.755
+91a7ed3acf64c24920353d8f825ef217,Tim Kaine,66,False,0.754
+bcbf68d5e24d3124680269f53284a83f,Mick Mars,73,False,0.75
